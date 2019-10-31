@@ -1,8 +1,21 @@
 import React from "react";
+import { withRouter } from "react-router-dom";
+
 import "./Dir-item-style.scss";
 
-const DirectoryItem = ({ title, imageUrl, subtitle, size }) => (
-  <div className={`${size} directory-item`}>
+const DirectoryItem = ({
+  title,
+  imageUrl,
+  subtitle,
+  size,
+  history,
+  linkUrl,
+  match
+}) => (
+  <div
+    className={`${size} directory-item`}
+    onClick={() => history.push(`${match.url}${linkUrl}`)}
+  >
     <div
       className="background-image"
       style={{ backgroundImage: `url(${imageUrl})` }}
@@ -14,4 +27,4 @@ const DirectoryItem = ({ title, imageUrl, subtitle, size }) => (
   </div>
 );
 
-export default DirectoryItem;
+export default withRouter(DirectoryItem);
