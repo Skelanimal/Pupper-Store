@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import DirectoryItem from "../Directory-item/Directory-item";
+import DirectoryItem from "../directory-item/Directory-item";
 
 import "./Directory-style.scss";
 
@@ -13,7 +13,7 @@ class Directory extends Component {
           title: "'Lil Head Covers",
           imageUrl: "https://bit.ly/2MVl76s",
           subtitle: "Cover that fuzzy 'lil head",
-          linkUrl: "hats"
+          linkUrl: "headcovers"
         },
         {
           title: "Tummy Warmers",
