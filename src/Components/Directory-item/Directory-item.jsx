@@ -1,7 +1,7 @@
 import React from "react";
 import { withRouter } from "react-router-dom";
 
-import "./Dir-item-style.scss";
+import "./dir-item-style.scss";
 
 const DirectoryItem = ({
   title,

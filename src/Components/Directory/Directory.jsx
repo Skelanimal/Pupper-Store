@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import DirectoryItem from "../directory-item/Directory-item";
 
-import "./Directory-style.scss";
+import "./directory-style.scss";
 
 class Directory extends Component {
   constructor() {
