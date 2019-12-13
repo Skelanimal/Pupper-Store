@@ -9,21 +9,21 @@ const itemData = [
     items: [
       {
         id: 1,
-        name: "insert-name-here",
+        name: "hat1",
         imageUrl: placeHolder,
-        price: 0
+        price: 15
       },
       {
         id: 2,
-        name: "insert-name-here",
+        name: "hat2",
         imageUrl: placeHolder,
-        price: 0
+        price: 20
       },
       {
         id: 3,
-        name: "insert-name-here",
+        name: "hat3",
         imageUrl: placeHolder,
-        price: 0
+        price: 18
       }
     ]
   },
@@ -34,21 +34,21 @@ const itemData = [
     items: [
       {
         id: 1,
-        name: "insert-name-here",
+        name: "shoe1",
         imageUrl: placeHolder,
-        price: 0
+        price: 30
       },
       {
         id: 2,
-        name: "insert-name-here",
+        name: "shoe2",
         imageUrl: placeHolder,
-        price: 0
+        price: 35
       },
       {
         id: 3,
-        name: "insert-name-here",
+        name: "shoe3",
         imageUrl: placeHolder,
-        price: 0
+        price: 33
       }
     ]
   },
@@ -59,21 +59,21 @@ const itemData = [
     items: [
       {
         id: 1,
-        name: "insert-name-here",
+        name: "shirt1",
         imageUrl: placeHolder,
-        price: 0
+        price: 25
       },
       {
         id: 2,
-        name: "insert-name-here",
+        name: "shirt2",
         imageUrl: placeHolder,
-        price: 0
+        price: 22
       },
       {
         id: 3,
-        name: "insert-name-here",
+        name: "shirt3",
         imageUrl: placeHolder,
-        price: 0
+        price: 27
       }
     ]
   },
@@ -84,21 +84,21 @@ const itemData = [
     items: [
       {
         id: 1,
-        name: "insert-name-here",
+        name: "cat1",
         imageUrl: placeHolder,
-        price: 0
+        price: 50
       },
       {
         id: 2,
-        name: "insert-name-here",
+        name: "cat2",
         imageUrl: placeHolder,
-        price: 0
+        price: 55
       },
       {
         id: 3,
-        name: "insert-name-here",
+        name: "cat3",
         imageUrl: placeHolder,
-        price: 0
+        price: 60
       }
     ]
   },
@@ -109,21 +109,21 @@ const itemData = [
     items: [
       {
         id: 1,
-        name: "insert-name-here",
+        name: "doggo1",
         imageUrl: placeHolder,
-        price: 0
+        price: 50
       },
       {
         id: 2,
-        name: "insert-name-here",
+        name: "doggo2",
         imageUrl: placeHolder,
-        price: 0
+        price: 55
       },
       {
         id: 3,
-        name: "insert-name-here",
+        name: "doggo3",
         imageUrl: placeHolder,
-        price: 0
+        price: 60
       }
     ]
   }
