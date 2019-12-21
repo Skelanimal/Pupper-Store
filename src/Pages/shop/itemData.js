@@ -33,19 +33,19 @@ const itemData = [
     routeName: "booties",
     items: [
       {
-        id: 1,
+        id: 21,
         name: "shoe1",
         imageUrl: placeHolder,
         price: 30
       },
       {
-        id: 2,
+        id: 22,
         name: "shoe2",
         imageUrl: placeHolder,
         price: 35
       },
       {
-        id: 3,
+        id: 23,
         name: "shoe3",
         imageUrl: placeHolder,
         price: 33
@@ -58,19 +58,19 @@ const itemData = [
     routeName: "tummy-warmers",
     items: [
       {
-        id: 1,
+        id: 31,
         name: "shirt1",
         imageUrl: placeHolder,
         price: 25
       },
       {
-        id: 2,
+        id: 32,
         name: "shirt2",
         imageUrl: placeHolder,
         price: 22
       },
       {
-        id: 3,
+        id: 33,
         name: "shirt3",
         imageUrl: placeHolder,
         price: 27
@@ -83,19 +83,19 @@ const itemData = [
     routeName: "kittos",
     items: [
       {
-        id: 1,
+        id: 41,
         name: "cat1",
         imageUrl: placeHolder,
         price: 50
       },
       {
-        id: 2,
+        id: 42,
         name: "cat2",
         imageUrl: placeHolder,
         price: 55
       },
       {
-        id: 3,
+        id: 43,
         name: "cat3",
         imageUrl: placeHolder,
         price: 60
@@ -108,19 +108,19 @@ const itemData = [
     routeName: "doggos",
     items: [
       {
-        id: 1,
+        id: 51,
         name: "doggo1",
         imageUrl: placeHolder,
         price: 50
       },
       {
-        id: 2,
+        id: 52,
         name: "doggo2",
         imageUrl: placeHolder,
         price: 55
       },
       {
-        id: 3,
+        id: 53,
         name: "doggo3",
         imageUrl: placeHolder,
         price: 60
